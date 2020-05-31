@@ -1,0 +1,7 @@
+C:\Bruno\Projetos\coreDDDWebApi\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+C:\Bruno\Projetos\coreDDDWebApi\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+C:\Bruno\Projetos\coreDDDWebApi\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+C:\Bruno\Projetos\coreDDDWebApi\Domain\bin\Debug\netstandard2.0\Domain.dll
+C:\Bruno\Projetos\coreDDDWebApi\Domain\bin\Debug\netstandard2.0\Domain.pdb
+C:\Bruno\Projetos\coreDDDWebApi\Domain\obj\Debug\netstandard2.0\Domain.dll
+C:\Bruno\Projetos\coreDDDWebApi\Domain\obj\Debug\netstandard2.0\Domain.pdb

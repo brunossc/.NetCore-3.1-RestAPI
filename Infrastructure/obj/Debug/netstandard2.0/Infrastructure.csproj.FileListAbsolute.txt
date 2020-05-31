@@ -1,0 +1,10 @@
+C:\Bruno\Projetos\coreDDDWebApi\Infrastructure\bin\Debug\netstandard2.0\Infrastructure.deps.json
+C:\Bruno\Projetos\coreDDDWebApi\Infrastructure\bin\Debug\netstandard2.0\Infrastructure.dll
+C:\Bruno\Projetos\coreDDDWebApi\Infrastructure\bin\Debug\netstandard2.0\Infrastructure.pdb
+C:\Bruno\Projetos\coreDDDWebApi\Infrastructure\bin\Debug\netstandard2.0\Domain.dll
+C:\Bruno\Projetos\coreDDDWebApi\Infrastructure\bin\Debug\netstandard2.0\Domain.pdb
+C:\Bruno\Projetos\coreDDDWebApi\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.csprojAssemblyReference.cache
+C:\Bruno\Projetos\coreDDDWebApi\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Bruno\Projetos\coreDDDWebApi\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.csproj.CopyComplete
+C:\Bruno\Projetos\coreDDDWebApi\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.dll
+C:\Bruno\Projetos\coreDDDWebApi\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.pdb
